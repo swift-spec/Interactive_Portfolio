@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Interactive_Portfolio/static/css/main.b5edc487.css",
+    "main.js": "/Interactive_Portfolio/static/js/main.31148feb.js",
+    "static/media/My Resume (1)_page-0002.pdf": "/Interactive_Portfolio/static/media/My Resume (1)_page-0002.10ba1f9aff03f53df361.pdf",
+    "index.html": "/Interactive_Portfolio/index.html",
+    "main.b5edc487.css.map": "/Interactive_Portfolio/static/css/main.b5edc487.css.map",
+    "main.31148feb.js.map": "/Interactive_Portfolio/static/js/main.31148feb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5edc487.css",
+    "static/js/main.31148feb.js"
+  ]
+}
